@@ -6,6 +6,7 @@ class scecond_screen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      // widget tree
       debugShowCheckedModeBanner: false,
       home: Scaffold(
         body: Stack(
